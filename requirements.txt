@@ -1,2 +1,4 @@
 Flask
 Gunicorn
+pymongo==4.6.2
+pandas==2.2.1
